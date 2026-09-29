@@ -1,0 +1,8 @@
+# Hostfile OpenMPI
+# Format: <hostname> slots=<n>
+# Hostname = nama service di Docker Compose
+
+master    slots=2
+worker1   slots=2
+worker2   slots=2
+worker3   slots=2
